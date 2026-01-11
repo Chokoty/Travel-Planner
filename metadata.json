@@ -1,0 +1,7 @@
+{
+  "name": "AI Travel Route Planner",
+  "description": "Upload a screenshot of your itinerary to automatically parse locations, categorize them, and visualize your travel route on an interactive schedule.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
