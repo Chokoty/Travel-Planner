@@ -18,6 +18,7 @@ export interface ItineraryItem {
   memo: string;
   lat?: number;
   lng?: number;
+  votedBy?: string[]; // New field for group member votes
 }
 
 export interface DayItinerary {
